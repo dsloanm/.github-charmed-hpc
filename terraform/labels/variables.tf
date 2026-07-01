@@ -174,7 +174,7 @@ variable "repository" {
     "ondemand-snap",
     "slurm-charms",
     "slurm-snap",
-    # "slurmutils",
+    "slurmutils",
     "sssd-operator",
   ]
 }
